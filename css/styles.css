@@ -135,12 +135,6 @@ height: 60px;
 .contact-mail {
   display: inline;
   color: var(--text-color-primary);
-  
-  
-  
-  padding-top: 24px;
-  padding-bottom: 24px;
-
   }
 
 /* .contact-mail::before {
@@ -157,10 +151,6 @@ height: 60px;
 
 .contact-number { 
   display: inline;
-
-  
-  padding-top: 24px;
-  padding-bottom: 24px;
 color: var(--text-color-primary);
 }
 
